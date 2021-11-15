@@ -1,0 +1,4 @@
+﻿  Kaynak.cpp
+C:\Users\pc\source\repos\TekBagliDaireselListe\TekBagliDaireselListe\Kaynak.cpp(17,9): warning C4101: 'geciciPtr2': yerel değişken başvurusu kaldırıldı
+C:\Users\pc\source\repos\TekBagliDaireselListe\TekBagliDaireselListe\Kaynak.cpp(11,9): warning C4101: 'geciciPtr': yerel değişken başvurusu kaldırıldı
+  TekBagliDaireselListe.vcxproj -> C:\Users\pc\source\repos\TekBagliDaireselListe\Debug\TekBagliDaireselListe.exe
